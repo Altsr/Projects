@@ -8,3 +8,5 @@ competitor offerings, and tactics for persuasion.
 stakeholders.
 • Assessed data analysis, SQL, to track performance of a product in the Operations Technology division, Derived key trends
 and pattern of customer base.
+
+A Framework for analyzing the innovation capacity and its effect on the market cap of public companies
